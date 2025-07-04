@@ -11,9 +11,9 @@
 
 - 🎓 I'm a final-year Computer Engineering student at **CY Tech**
 - 🌍 Currently doing an **AI Engineering internship** at **Neural AI** (Born Digital - Malta)
-- 🔐 Transitioning into **DevSecOps**, with strong interests in **cybersecurity, automation, and cloud**
+- 🔐 Transitioning into **DevSecOps**, with strong interests in **software engineering, cybersecurity, automation, and cloud**
 - 🛠️ I love building test frameworks, extensions, and backend services that solve real-world problems
-- 🗣️ Native French speaker, fluent in English
+- 🗣️ Native French speaker, Professional proficiency in English
 
 ---
 
@@ -35,10 +35,10 @@
 ### 🚀 Projects
 
 - 🔒 [Gmail Anti-Phishing Extension](https://github.com/ton-lien) – Chrome extension to detect and alert users about phishing/spam in Gmail
-- ⚙️ [API Test Automation Benchmark](https://github.com/ton-lien) – Comparative study of 6 popular API testing frameworks
-- 🧪 [Karate Custom Keywords](https://github.com/ton-lien) – Reusable DSL-style keywords for API test automation in KarateDSL
-- 📦 [Symfony Events API](https://github.com/ton-lien) – Event management backend with JWT, CRUD, role-based access
-- 📱 [Beakura Mobile App](https://github.com/ton-lien) – Flutter app for African beauty salons (booking & event management)
+- ⚙️ [API Test Automation Benchmark](https://github.com/marius-kengne/playwright-java-cucumber-api.git) – Playwright API testing frameworks
+- 🧪 [Tavern Custom Automation](https://github.com/marius-kengne/tavern_automation.git) – Reusable Yaml-style keywords for API test automation in Tavern
+- 📦 [Symfony Events API](https://github.com/marius-kengne/events_frontend.git) – Event management frontend(react native) & backend(symfony) with JWT, CRUD, role-based access
+- 📱 [Beakura Mobile App](https://github.com/marius-kengne/Beakura.git) – Flutter app for African beauty salons (booking & event management)
 
 ---
 
@@ -55,9 +55,9 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ton-profil" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:contact@tonmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://tonsite.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+  <a href="www.linkedin.com/in/marius-kengne" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:contact@harold.m.kengne@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="www.linkedin.com/in/marius-kengne" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 
 ---
